@@ -1,0 +1,235 @@
+[
+  {
+    "name": "Product_10000",
+    "category": "Food",
+    "price": 246.1,
+    "rating": 2.2,
+    "stock": 70,
+    "tags": [
+      "imported",
+      "clearance",
+      "bestseller",
+      "premium"
+    ]
+  },
+  {
+    "name": "Product_10001",
+    "category": "Automotive",
+    "price": 924.98,
+    "rating": 1.8,
+    "stock": 259,
+    "tags": [
+      "organic"
+    ]
+  },
+  {
+    "name": "Product_10002",
+    "category": "Beauty",
+    "price": 782.47,
+    "rating": 2.2,
+    "stock": 349,
+    "tags": [
+      "imported",
+      "clearance"
+    ]
+  },
+  {
+    "name": "Product_10003",
+    "category": "Food",
+    "price": 907.84,
+    "rating": 4.5,
+    "stock": 394,
+    "tags": [
+      "premium",
+      "bestseller",
+      "limited",
+      "imported"
+    ]
+  },
+  {
+    "name": "Product_10004",
+    "category": "Automotive",
+    "price": 741.34,
+    "rating": 3.4,
+    "stock": 323,
+    "tags": [
+      "imported",
+      "clearance",
+      "organic"
+    ]
+  },
+  {
+    "name": "Product_10005",
+    "category": "Electronics",
+    "price": 367.17,
+    "rating": 3.0,
+    "stock": 227,
+    "tags": [
+      "imported",
+      "clearance",
+      "organic",
+      "bestseller"
+    ]
+  },
+  {
+    "name": "Product_10006",
+    "category": "Books",
+    "price": 656.08,
+    "rating": 4.0,
+    "stock": 296,
+    "tags": [
+      "sale",
+      "imported"
+    ]
+  },
+  {
+    "name": "Product_10007",
+    "category": "Automotive",
+    "price": 599.86,
+    "rating": 2.4,
+    "stock": 156,
+    "tags": [
+      "limited",
+      "top-rated",
+      "sale",
+      "organic"
+    ]
+  },
+  {
+    "name": "Product_10008",
+    "category": "Beauty",
+    "price": 74.53,
+    "rating": 2.8,
+    "stock": 72,
+    "tags": [
+      "sale",
+      "imported",
+      "top-rated"
+    ]
+  },
+  {
+    "name": "Product_10009",
+    "category": "Automotive",
+    "price": 827.91,
+    "rating": 2.0,
+    "stock": 406,
+    "tags": [
+      "imported",
+      "limited",
+      "organic"
+    ]
+  },
+  {
+    "name": "Product_10010",
+    "category": "Food",
+    "price": 772.75,
+    "rating": 1.6,
+    "stock": 381,
+    "tags": [
+      "imported",
+      "top-rated",
+      "limited"
+    ]
+  },
+  {
+    "name": "Product_10011",
+    "category": "Beauty",
+    "price": 800.19,
+    "rating": 4.7,
+    "stock": 288,
+    "tags": [
+      "new",
+      "eco-friendly"
+    ]
+  },
+  {
+    "name": "Product_10012",
+    "category": "Automotive",
+    "price": 757.71,
+    "rating": 3.1,
+    "stock": 129,
+    "tags": [
+      "premium",
+      "top-rated"
+    ]
+  },
+  {
+    "name": "Product_10013",
+    "category": "Food",
+    "price": 527.02,
+    "rating": 4.7,
+    "stock": 374,
+    "tags": [
+      "bestseller",
+      "premium"
+    ]
+  },
+  {
+    "name": "Product_10014",
+    "category": "Home",
+    "price": 502.59,
+    "rating": 1.5,
+    "stock": 266,
+    "tags": [
+      "premium",
+      "sale"
+    ]
+  },
+  {
+    "name": "Product_10015",
+    "category": "Clothing",
+    "price": 182.63,
+    "rating": 1.8,
+    "stock": 199,
+    "tags": [
+      "clearance",
+      "top-rated",
+      "sale"
+    ]
+  },
+  {
+    "name": "Product_10016",
+    "category": "Books",
+    "price": 470.01,
+    "rating": 4.7,
+    "stock": 456,
+    "tags": [
+      "new",
+      "clearance",
+      "limited"
+    ]
+  },
+  {
+    "name": "Product_10017",
+    "category": "Beauty",
+    "price": 521.64,
+    "rating": 4.4,
+    "stock": 409,
+    "tags": [
+      "limited",
+      "organic",
+      "eco-friendly"
+    ]
+  },
+  {
+    "name": "Product_10018",
+    "category": "Home",
+    "price": 880.26,
+    "rating": 4.8,
+    "stock": 308,
+    "tags": [
+      "premium"
+    ]
+  },
+  {
+    "name": "Product_10019",
+    "category": "Toys",
+    "price": 184.56,
+    "rating": 1.6,
+    "stock": 28,
+    "tags": [
+      "eco-friendly",
+      "top-rated"
+    ]
+  }
+]

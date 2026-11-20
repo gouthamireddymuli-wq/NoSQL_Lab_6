@@ -1,0 +1,116 @@
+[
+  {
+    "name": "idx_stock_price",
+    "key": {
+      "stock": 1,
+      "price": -1
+    },
+    "host": "GouthamiReddy:27017",
+    "accesses": {
+      "ops": 20,
+      "since": "2026-11-15 16:10:46.883000"
+    },
+    "spec": {
+      "v": 2,
+      "key": {
+        "stock": 1,
+        "price": -1
+      },
+      "name": "idx_stock_price"
+    }
+  },
+  {
+    "name": "_id_",
+    "key": {
+      "_id": 1
+    },
+    "host": "GouthamiReddy:27017",
+    "accesses": {
+      "ops": 0,
+      "since": "2026-11-15 16:10:44.396000"
+    },
+    "spec": {
+      "v": 2,
+      "key": {
+        "_id": 1
+      },
+      "name": "_id_"
+    }
+  },
+  {
+    "name": "idx_price",
+    "key": {
+      "price": 1
+    },
+    "host": "GouthamiReddy:27017",
+    "accesses": {
+      "ops": 20,
+      "since": "2026-11-15 16:10:45.499000"
+    },
+    "spec": {
+      "v": 2,
+      "key": {
+        "price": 1
+      },
+      "name": "idx_price"
+    }
+  },
+  {
+    "name": "idx_category_rating",
+    "key": {
+      "category": 1,
+      "rating": -1
+    },
+    "host": "GouthamiReddy:27017",
+    "accesses": {
+      "ops": 20,
+      "since": "2026-11-15 16:10:46.505000"
+    },
+    "spec": {
+      "v": 2,
+      "key": {
+        "category": 1,
+        "rating": -1
+      },
+      "name": "idx_category_rating"
+    }
+  },
+  {
+    "name": "idx_category_price",
+    "key": {
+      "category": 1,
+      "price": 1
+    },
+    "host": "GouthamiReddy:27017",
+    "accesses": {
+      "ops": 20,
+      "since": "2026-11-15 16:10:45.100000"
+    },
+    "spec": {
+      "v": 2,
+      "key": {
+        "category": 1,
+        "price": 1
+      },
+      "name": "idx_category_price"
+    }
+  },
+  {
+    "name": "idx_tags",
+    "key": {
+      "tags": 1
+    },
+    "host": "GouthamiReddy:27017",
+    "accesses": {
+      "ops": 20,
+      "since": "2026-11-15 16:10:45.852000"
+    },
+    "spec": {
+      "v": 2,
+      "key": {
+        "tags": 1
+      },
+      "name": "idx_tags"
+    }
+  }
+]

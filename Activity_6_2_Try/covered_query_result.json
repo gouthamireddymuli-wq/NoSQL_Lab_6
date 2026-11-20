@@ -1,0 +1,102 @@
+[
+  {
+    "category": "Electronics",
+    "price": 3.49,
+    "rating": 2.0
+  },
+  {
+    "category": "Electronics",
+    "price": 4.79,
+    "rating": 1.1
+  },
+  {
+    "category": "Electronics",
+    "price": 5.39,
+    "rating": 2.7
+  },
+  {
+    "category": "Electronics",
+    "price": 5.4,
+    "rating": 3.8
+  },
+  {
+    "category": "Electronics",
+    "price": 7.33,
+    "rating": 1.6
+  },
+  {
+    "category": "Electronics",
+    "price": 10.54,
+    "rating": 2.7
+  },
+  {
+    "category": "Electronics",
+    "price": 11.32,
+    "rating": 2.7
+  },
+  {
+    "category": "Electronics",
+    "price": 12.05,
+    "rating": 4.2
+  },
+  {
+    "category": "Electronics",
+    "price": 12.53,
+    "rating": 3.9
+  },
+  {
+    "category": "Electronics",
+    "price": 13.12,
+    "rating": 3.1
+  },
+  {
+    "category": "Electronics",
+    "price": 13.34,
+    "rating": 1.6
+  },
+  {
+    "category": "Electronics",
+    "price": 15.02,
+    "rating": 2.3
+  },
+  {
+    "category": "Electronics",
+    "price": 15.12,
+    "rating": 1.6
+  },
+  {
+    "category": "Electronics",
+    "price": 15.12,
+    "rating": 1.6
+  },
+  {
+    "category": "Electronics",
+    "price": 15.38,
+    "rating": 1.5
+  },
+  {
+    "category": "Electronics",
+    "price": 15.88,
+    "rating": 4.3
+  },
+  {
+    "category": "Electronics",
+    "price": 16.06,
+    "rating": 2.7
+  },
+  {
+    "category": "Electronics",
+    "price": 20.09,
+    "rating": 3.9
+  },
+  {
+    "category": "Electronics",
+    "price": 20.51,
+    "rating": 3.3
+  },
+  {
+    "category": "Electronics",
+    "price": 20.6,
+    "rating": 3.8
+  }
+]

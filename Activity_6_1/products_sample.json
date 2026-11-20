@@ -1,0 +1,230 @@
+[
+  {
+    "name": "Product_00000 Basic",
+    "category": "Electronics",
+    "price": 731.86,
+    "rating": 1.1,
+    "stock": 292,
+    "tags": [
+      "limited",
+      "organic",
+      "bestseller",
+      "sale"
+    ]
+  },
+  {
+    "name": "Product_00001 Basic",
+    "category": "Clothing",
+    "price": 663.64,
+    "rating": 4.6,
+    "stock": 87,
+    "tags": [
+      "bestseller",
+      "imported",
+      "new"
+    ]
+  },
+  {
+    "name": "Product_00002 Pro",
+    "category": "Clothing",
+    "price": 74.2,
+    "rating": 2.6,
+    "stock": 315,
+    "tags": [
+      "bestseller",
+      "new"
+    ]
+  },
+  {
+    "name": "Product_00003 Ultra",
+    "category": "Sports",
+    "price": 358.19,
+    "rating": 4.2,
+    "stock": 483,
+    "tags": [
+      "limited",
+      "bestseller"
+    ]
+  },
+  {
+    "name": "Product_00004 Ultra",
+    "category": "Clothing",
+    "price": 660.51,
+    "rating": 3.2,
+    "stock": 291,
+    "tags": [
+      "new",
+      "organic"
+    ]
+  },
+  {
+    "name": "Product_00005 Ultra",
+    "category": "Electronics",
+    "price": 964.36,
+    "rating": 4.8,
+    "stock": 215,
+    "tags": [
+      "clearance",
+      "top-rated",
+      "limited"
+    ]
+  },
+  {
+    "name": "Product_00006 Max",
+    "category": "Clothing",
+    "price": 33.0,
+    "rating": 1.2,
+    "stock": 5,
+    "tags": [
+      "top-rated",
+      "organic"
+    ]
+  },
+  {
+    "name": "Product_00007 Max",
+    "category": "Home",
+    "price": 974.26,
+    "rating": 4.5,
+    "stock": 252,
+    "tags": [
+      "organic"
+    ]
+  },
+  {
+    "name": "Product_00008 Ultra",
+    "category": "Toys",
+    "price": 979.16,
+    "rating": 1.5,
+    "stock": 63,
+    "tags": [
+      "limited"
+    ]
+  },
+  {
+    "name": "Product_00009 Pro",
+    "category": "Clothing",
+    "price": 182.86,
+    "rating": 3.9,
+    "stock": 92,
+    "tags": [
+      "eco-friendly",
+      "new",
+      "premium"
+    ]
+  },
+  {
+    "name": "Product_00010 Max",
+    "category": "Food",
+    "price": 526.56,
+    "rating": 2.9,
+    "stock": 456,
+    "tags": [
+      "bestseller"
+    ]
+  },
+  {
+    "name": "Product_00011 Basic",
+    "category": "Beauty",
+    "price": 849.07,
+    "rating": 2.6,
+    "stock": 7,
+    "tags": [
+      "sale"
+    ]
+  },
+  {
+    "name": "Product_00012 Lite",
+    "category": "Toys",
+    "price": 50.87,
+    "rating": 2.9,
+    "stock": 70,
+    "tags": [
+      "bestseller",
+      "new",
+      "eco-friendly"
+    ]
+  },
+  {
+    "name": "Product_00013 Ultra",
+    "category": "Electronics",
+    "price": 861.11,
+    "rating": 4.4,
+    "stock": 26,
+    "tags": [
+      "premium"
+    ]
+  },
+  {
+    "name": "Product_00014 Max",
+    "category": "Food",
+    "price": 245.98,
+    "rating": 4.5,
+    "stock": 188,
+    "tags": [
+      "sale",
+      "new",
+      "bestseller",
+      "organic"
+    ]
+  },
+  {
+    "name": "Product_00015 Basic",
+    "category": "Food",
+    "price": 520.15,
+    "rating": 4.9,
+    "stock": 460,
+    "tags": [
+      "new",
+      "premium",
+      "clearance"
+    ]
+  },
+  {
+    "name": "Product_00016 Max",
+    "category": "Home",
+    "price": 596.93,
+    "rating": 3.6,
+    "stock": 348,
+    "tags": [
+      "imported",
+      "eco-friendly",
+      "limited",
+      "top-rated"
+    ]
+  },
+  {
+    "name": "Product_00017 Ultra",
+    "category": "Sports",
+    "price": 585.75,
+    "rating": 2.8,
+    "stock": 348,
+    "tags": [
+      "limited",
+      "imported"
+    ]
+  },
+  {
+    "name": "Product_00018 Lite",
+    "category": "Garden",
+    "price": 793.52,
+    "rating": 3.8,
+    "stock": 314,
+    "tags": [
+      "imported",
+      "sale",
+      "organic"
+    ]
+  },
+  {
+    "name": "Product_00019 Ultra",
+    "category": "Automotive",
+    "price": 944.09,
+    "rating": 3.5,
+    "stock": 457,
+    "tags": [
+      "sale",
+      "clearance",
+      "bestseller"
+    ]
+  }
+]
